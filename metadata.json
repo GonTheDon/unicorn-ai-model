@@ -1,0 +1,5 @@
+{
+  "name": "cushion cover base image design replace",
+  "description": "An application that allows users to apply a design or pattern from one image onto an object in another image using AI. For example, applying a fabric design to a plain cushion.",
+  "requestFramePermissions": []
+}
